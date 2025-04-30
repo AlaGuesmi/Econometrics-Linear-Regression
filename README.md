@@ -19,3 +19,5 @@ Identifying key determinants of salary in the UAE job market
 Ensuring model validity through econometric diagnostics
 
 Translating findings into insights for employment and wage policies
+
+View full report (PDF) (Econometrics_Project_Report_Ala_Guesmi.pdf)
